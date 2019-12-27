@@ -1,0 +1,6 @@
+framework module Pods_SuccessBuilder_SuccessBuilderUITests {
+  umbrella header "Pods-SuccessBuilder-SuccessBuilderUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

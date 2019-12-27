@@ -1,0 +1,6 @@
+framework module Pods_SuccessBuilder {
+  umbrella header "Pods-SuccessBuilder-umbrella.h"
+
+  export *
+  module * { export * }
+}
